@@ -8,7 +8,9 @@ Started as [coc-emmet](https://github.com/neoclide/coc-emmet) replacement for [c
 
 #### Install
 ```
-npm install -g emmet-ls
+git clone git@github.com:scottming/emmet-ls.git
+git co add-elixir-files-support
+npm install -g .
 ```
 
 #### Configuration 
